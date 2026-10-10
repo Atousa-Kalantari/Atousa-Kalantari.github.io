@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://iasbs.ac.ir/'>Institute for Advanced Studies in Basic Sciences</a>, Department of Physics
+subtitle: M.Sc. in Astrophysics | Researcher
 
 profile:
   align: left
@@ -27,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**M.Sc. in Astrophysics | Machine Learning for Astrophysics**
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am an astrophysics researcher interested in applying machine learning to astronomical data, particularly in time-domain astronomy and the study of galaxies.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+For my master's thesis, I developed Microlensify, a project aimed at detecting microlensing signals in TESS light curves. The work combines light-curve simulations and traditional microlensing fitting methods with a physics-informed, Transformer-based variational autoencoder to distinguish microlensing events from false positives. This research could help improve microlensing detection in current and future astronomical surveys.
+
+I have also worked on estimating galaxy properties, including stellar mass, redshift, and star formation rate, using COSMOS-Web data. This work explores Self-Organizing Maps (SOMs) and K-means clustering as alternatives to traditional spectral energy distribution (SED) fitting methods.
+
+I am currently seeking PhD opportunities in astrophysics, especially in projects involving machine learning and astronomical data analysis.
