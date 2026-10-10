@@ -8,25 +8,24 @@
   .profile-container {
     display: flex;
     align-items: flex-start;
-    gap: 2.5rem; /* فاصله بین عکس و متن (می‌توانید کم یا زیاد کنید) */
+    gap: 2.5rem; 
     margin-top: 1rem;
     margin-bottom: 2rem;
   }
   .profile-image-box {
     flex-shrink: 0;
-    width: 240px; /* اندازه تصویر */
+    width: 240px; 
   }
   .profile-image-box img {
     width: 100%;
     height: 240px;
     object-fit: cover;
-    border-radius: 50%; /* گرد کردن عکس */
+    border-radius: 50%; 
   }
   .bio-content {
     flex-grow: 1;
   }
-
-  /* تنظیم واکنش‌گرا برای گوشی موبایل تا به هم نریزد */
+ 
   @media (max-width: 768px) {
     .profile-container {
       flex-direction: column;
