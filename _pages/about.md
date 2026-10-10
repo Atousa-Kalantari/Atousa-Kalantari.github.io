@@ -38,6 +38,14 @@ latest_posts:
   text-align: center;
   margin-bottom: 2rem;
 }
+
+.profile img {
+  width: 250px !important;
+  height: 250px !important;
+  max-width: 250px !important;
+  object-fit: cover;
+  margin: 0 auto;
+}
 </style>
 
 
