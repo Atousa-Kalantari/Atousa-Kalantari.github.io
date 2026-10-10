@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.Sc. in Astrophysics | Researcher
+subtitle: <strong>M.Sc. in Astrophysics | Researcher</strong>
 
 profile:
   align: left
@@ -26,8 +26,6 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
-**M.Sc. in Astrophysics | Machine Learning for Astrophysics**
 
 I am an astrophysics researcher interested in applying machine learning to astronomical data, particularly in time-domain astronomy and the study of galaxies.
 
