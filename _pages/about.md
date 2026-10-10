@@ -1,4 +1,5 @@
 ---
+
 layout: about
 title: about
 permalink: /
@@ -26,6 +27,26 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+---
+
+<style>
+.profile {
+  float: none !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+</style>
+
+
+layout: about
+title: about
+permalink: /
+subtitle: <strong>M.Sc. in Astrophysics | Researcher</strong>
+
+
 
 I am an astrophysics researcher interested in applying machine learning to astronomical data, particularly in time-domain astronomy and the study of galaxies.
 
