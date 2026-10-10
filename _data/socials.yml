@@ -1,7 +1,8 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 
-cv_pdf: /assets/pdf/example_pdf.pdf # مسیر فایل رزومه شما
-email: you@example.com # ایمیل خودتان
-orcid_id: 0000-0002-1825-0097 # شناسه ۱۶ رقمی اورکید خودتان
-scholar_userid: qc6CJjYAAAAJ # آیدی گوگل اسکولار خودتان
+cv_pdf: /assets/pdf/example_pdf.pdf
+email: atousakalantari99@gmail.com
+orcid_id: 0009-0006-2285-6792
+scholar_userid: 78ERVYAAAAAJ
+github_username: Atousa-Kalantari
