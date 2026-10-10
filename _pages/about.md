@@ -28,31 +28,27 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
----
-
 <style>
 .profile {
-  float: none !important;
-  width: 100% !important;
-  max-width: 100% !important;
+  float: left !important;
+  width: 260px !important;
+  max-width: 260px !important;
+  margin-right: 3rem !important;  
+  margin-bottom: 1rem !important;
   text-align: center;
-  margin-bottom: 2rem;
 }
 
 .profile img {
-  width: 250px !important;
-  height: 250px !important;
-  max-width: 250px !important;
+  width: 260px !important;
+  height: 260px !important;
+  max-width: 260px !important;
   object-fit: cover;
-  margin: 0 auto;
+}
+ 
+.clearfix {
+  overflow: hidden;
 }
 </style>
-
-
-layout: about
-title: about
-permalink: /
-subtitle: <strong>M.Sc. in Astrophysics | Researcher</strong>
 
 
 
