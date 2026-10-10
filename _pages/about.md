@@ -6,37 +6,26 @@ subtitle: <strong>M.Sc. in Astrophysics | Researcher</strong>
 
 profile:
   align: left
-  image: prof_pic.png
-  image_circular: true
+  image: prof_pic.jpg
+  image_circular: True # crops the image to make it circular
+  #more_info: >
+   # <p>555 your office number</p>
+   # <p>123 your address street</p>
+   # <p>Your City, State 12345</p>
 
-selected_papers: false
-social: true
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false
+  enabled: false # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 ---
-
-<style>
-  
-  .profile.float-left {
-    margin-right: 2.5rem !important;
-    margin-bottom: 1.5rem !important;
-  }
-   
-  .clearfix {
-    display: flex;
-    align-items: flex-start;
-  }
-
-  @media (max-width: 768px) {
-    .clearfix {
-      display: block;
-    }
-  }
-</style>
 
 I am an astrophysics researcher interested in applying machine learning to astronomical data, particularly in time-domain astronomy and the study of galaxies.
 
