@@ -8,9 +8,15 @@ subtitle: <strong>M.Sc. in Astrophysics | Researcher</strong>
 profile:
   align: left
   image: prof_pic.jpg
-  image_circular: True # crops the image to make it circular
+  image_circular: True
   more_info: >
-    <p><a href="mailto:your.email@example.com">atousakalantari99@gmail.com</a></p>
+    <div class="profile-social">
+      <a href="/assets/pdf/example_pdf.pdf" title="CV"><i class="ai ai-cv"></i></a>
+      <a href="mailto:atousakalantari99@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
+      <a href="https://orcid.org/0009-0006-2285-6792" title="ORCID"><i class="ai ai-orcid"></i></a>
+      <a href="https://scholar.google.com/citations?user=78ERVYAAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+      <a href="https://github.com/Atousa-Kalantari" title="GitHub"><i class="fa-brands fa-github"></i></a>
+    </div>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -51,7 +57,26 @@ latest_posts:
   font-size: 1.15rem;
   line-height: 1.7;
 }
+
+.profile-social {
+  margin-top: 1rem;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.profile-social a {
+  font-size: 1.5rem;
+  margin: 0 0.3rem;
+  color: inherit;
+}
+
+.profile-social a:hover {
+  color: var(--global-theme-color);
+}
+  
 </style>
+
+
 
 
 
