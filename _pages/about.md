@@ -33,7 +33,7 @@ latest_posts:
   float: left !important;
   width: 260px !important;
   max-width: 260px !important;
-  margin-right: 3rem !important;  
+  margin-right: 3rem !important;
   margin-bottom: 1rem !important;
   text-align: center;
 }
@@ -44,9 +44,14 @@ latest_posts:
   max-width: 260px !important;
   object-fit: cover;
 }
- 
+
 .clearfix {
   overflow: hidden;
+}
+
+.clearfix p {
+  font-size: 1.15rem;
+  line-height: 1.7;
 }
 </style>
 
