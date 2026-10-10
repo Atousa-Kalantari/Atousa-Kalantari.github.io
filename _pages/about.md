@@ -20,13 +20,12 @@ latest_posts:
 ---
 
 <style>
-  /* ایجاد فاصله بیشتر بین عکس و متن */
+  
   .profile.float-left {
     margin-right: 2.5rem !important;
     margin-bottom: 1.5rem !important;
   }
-  
-  /* مرتب نگه‌داشتن متن در سمت راست عکس */
+   
   .clearfix {
     display: flex;
     align-items: flex-start;
