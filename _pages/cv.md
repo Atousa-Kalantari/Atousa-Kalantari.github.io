@@ -6,12 +6,11 @@ nav: true
 nav_order: 5
 ---
 
-<div class="cv-pdf-container">
-  <iframe
-    src="{{ '/assets/pdf/CV_AtousaKalantari.pdf' | relative_url }}"
-    width="100%"
-    height="1100px"
-    style="border: none;"
-    title="Atousa Kalantari CV">
-  </iframe>
+<div class="text-center">
+  <a href="{{ '/assets/pdf/CV_AtousaKalantari.pdf' | relative_url }}"
+     target="_blank"
+     class="btn btn-outline-primary btn-lg">
+    <i class="fa-solid fa-file-pdf"></i>
+    View My CV (PDF)
+  </a>
 </div>
