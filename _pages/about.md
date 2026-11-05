@@ -11,7 +11,7 @@ profile:
   image_circular: True
   more_info: >
     <div class="profile-social">
-      # <a href="/assets/pdf/CV_AtousaKalantari.pdf" title="CV"><i class="ai ai-cv"></i></a>
+      #<a href="/assets/pdf/CV_AtousaKalantari.pdf" title="CV"><i class="ai ai-cv"></i></a>
       <a href="mailto:atousakalantari99@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
       <a href="https://orcid.org/0009-0006-2285-6792" title="ORCID"><i class="ai ai-orcid"></i></a>
       <a href="https://scholar.google.com/citations?user=78ERVYAAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
