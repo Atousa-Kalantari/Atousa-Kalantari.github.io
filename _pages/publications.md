@@ -7,6 +7,15 @@ nav: true
 nav_order: 2
 ---
 
+<p>
+  You can also find my publications and citation metrics on
+  <a href="https://scholar.google.com/citations?user=78ERVYAAAAAJ"
+     target="_blank"
+     rel="noopener noreferrer">
+    Google Scholar
+  </a>.
+</p>
+
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
